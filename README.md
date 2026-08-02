@@ -1,4 +1,5 @@
 # Hi 👋, I'm Chaitanya I Loli :
+   ** A passionate Data Analyst from India **  
 <br><br>🔭 Currently working on Data Analytics projects using Python, SQL, Excel, and Power BI.<br><br>🤝 Open to collaborating on Data Analysis, Dashboard Development, and Open- Source projects.<br><br>🫶 Seeking opportunities to improve Machine Learning and Cloud skills.<br><br>🌱 Learning Tableau, Statistics, Machine Learning, and Git/GitHub.<br><br>💬 Ask me about Python, SQL, Power BI, Excel, and Data Analytics.<br><br>⚡ Goal: To become a Data Analyst and solve real-world business problems using data.
 
 
